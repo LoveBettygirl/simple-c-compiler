@@ -1,2 +1,6 @@
 # simple-c-compiler
-Compilers final homework
+编译原理大作业。。。
+
+由于已近考试周，时间比较仓促，所以就只完成了基本功能，并且代码很凌乱。
+
+在测试样例中未涉及的内容都可能会有bug。有问题请多指教。
